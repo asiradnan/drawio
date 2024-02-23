@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T14:32:00.712Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MCAtrvFLA5VGq9k8-8Cu" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T14:34:25.318Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3ZzJQ_NbVZFM-KhGYWDB" version="23.1.6" type="github">
   <diagram name="Page-1" id="Y0Nm-Vi45iS8M-5RDQzW">
-    <mxGraphModel dx="1278" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="570" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,10 +34,10 @@
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-95" value="Status" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="329.94" y="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-96" value="Degrees" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-96" value="&lt;b&gt;Degrees&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="129.94" y="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-99" value="Hospitals" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-99" value="&lt;b&gt;Hospitals&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="229.94" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-100" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Cabins&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-127" value="Day" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-129" value="Medicines" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-129" value="&lt;b&gt;Medicines&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="129.94" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-130" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Pharmacy&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -121,19 +121,19 @@
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-144" value="&lt;u&gt;username&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="700" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-145" value="Doctors" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-145" value="&lt;b&gt;Doctors&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="229.94000000000005" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-146" value="Name" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="129.94000000000005" y="700" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-147" value="Cabins" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-147" value="&lt;b&gt;Cabins&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="329.94" y="700" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-148" value="Ambulances" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-148" value="&lt;b&gt;Ambulances&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="429.94" y="700" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-149" value="Pharmacies" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-149" value="&lt;b&gt;Pharmacies&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-150" value="Hospital" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -148,14 +148,14 @@
         <mxCell id="QsGeH7hN5E17ZgFzsa2r-154" value="Service_owner" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="600" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsGeH7hN5E17ZgFzsa2r-155" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.828;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="QsGeH7hN5E17ZgFzsa2r-155" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.622;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QsGeH7hN5E17ZgFzsa2r-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="717.7999999999997" y="330" as="sourcePoint" />
+            <mxPoint x="719" y="330" as="sourcePoint" />
             <mxPoint x="110" y="738.76" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="719" y="358.76" />
-              <mxPoint x="845" y="358.76" />
-              <mxPoint x="845" y="758.76" />
+              <mxPoint x="692" y="360" />
+              <mxPoint x="840" y="359" />
+              <mxPoint x="840" y="759" />
               <mxPoint x="110" y="758.76" />
             </Array>
           </mxGeometry>
